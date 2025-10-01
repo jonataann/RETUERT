@@ -36,11 +36,6 @@ async function init() {
     `);
     infowindow.open(map.innerMap, marker);
   });
-  new google.maps.Marker({
-    position: gmp-map,
-    map: map,
-    title: "av.los angeles, mall plaza",
-  });
 }
 
 document.addEventListener('DOMContentLoaded', init);
