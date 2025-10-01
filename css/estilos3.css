@@ -1,0 +1,15 @@
+html,
+body {
+  height: 95%;
+  margin: 0;
+  padding: 0;
+}
+
+.place-picker-container {
+  padding: 20px;
+}
+
+nav div{
+    background-color:aqua;
+    overflow: hidden;
+}
